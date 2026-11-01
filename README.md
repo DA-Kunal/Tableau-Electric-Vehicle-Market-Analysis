@@ -10,8 +10,7 @@ The dashboard provides a comprehensive look into EV registration and market pene
 * **Total BEV Vehicles:** 116,745 (77.62%)[cite: 1]
 * **Total PHEV Vehicles:** 33,668 (22.38%)[cite: 1]
 
-![EV Dashboard Overview](screenshots/ev-dashboard-overview.png)[cite: 1]
-
+![EV Dashboard Overview](Tableau-electric-vehicle-market-analysis%20Dashboard.png)
 ---
 
 ## 🔍 Key Dashboard Components & Visuals
