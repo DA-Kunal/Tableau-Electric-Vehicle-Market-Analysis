@@ -2,6 +2,15 @@
 
 An interactive Tableau dashboard analyzing electric vehicle adoption trends, geographic distribution, manufacturer breakdown, and Clean Alternative Fuel Vehicle (CAFV) eligibility.
 
+## 💼 Business Requirements
+* **Market Penetration & Geographic Analysis:** Track regional adoption rates across different states to identify top-performing markets and areas with low EV penetration.
+* **Technology Adoption Breakdown:** Monitor the balance between Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEV) to understand consumer preferences.
+* **Manufacturer & Model Performance:** Evaluate which automotive brands and specific models are leading the market share.
+* **Policy & Incentive Tracking:** Analyze Clean Alternative Fuel Vehicle (CAFV) eligibility distribution to measure the impact or reach of government incentives.
+* **Historical Growth Tracking:** Evaluate yearly adoption trends from past model years up to the present to forecast future EV demand.
+
+---
+
 ## 📊 Dashboard Overview
 The dashboard provides a comprehensive look into EV registration and market penetration, featuring key performance indicators (KPIs) and dynamic filters for deep-dive exploration.
 
@@ -22,6 +31,16 @@ The dashboard provides a comprehensive look into EV registration and market pene
 5. **Top 10 Total Vehicles by Make (Bar Chart):** Ranks top manufacturers (led heavily by Tesla, Nissan, and Chevrolet) along with vehicle counts and percentage shares, driven by a dynamic `Top N` parameter.
 6. **Total Vehicles by CAFV Eligibility (Donut Chart):** Breaks down the proportion of vehicles eligible, not eligible, or with unknown CAFV status.
 7. **Total Vehicles by Model (Detailed Table):** Tabular view breaking down specific models, manufacturers, EV types, total volumes, and overall percentage shares.
+
+---
+
+## 📊 Key Insights & Metrics
+* **Total Vehicle Volume:** **1,50,413** total vehicles analyzed with an average electric range of **67.83 Miles**.
+* **BEV vs. PHEV Share:** Battery Electric Vehicles lead adoption at **1,16,745 units (77.62%)**, while Plug-in Hybrids account for **33,668 units (22.38%)**.
+* **Market Leader:** **Tesla** dominates the top manufacturer segment with **68,939 units (52.70%)**, followed by Nissan and Chevrolet.
+* **Geographic Concentration:** Adoption volume is heavily concentrated in leading states, with primary regional hotspots driving the bulk of registrations.
+* **CAFV Incentive Status:** **41.81%** of vehicles are CAFV eligible, **11.85%** are not eligible, and **46.34%** remain unknown.
+* **Adoption Growth:** Historical data highlights rapid scaling in recent model years, peaking strongly prior to the current incomplete model cycle.
 
 ---
 
